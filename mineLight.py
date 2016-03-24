@@ -1,5 +1,5 @@
-import minecraft
-import block
+from mcpi.minecraft import Minecraft
+from mcpi.minecraft import Block
 import serial
 import time
 
